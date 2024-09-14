@@ -3,14 +3,14 @@
 
 - 📫 How to reach me **frankplouis7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/frankplouis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frankplouis" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/frank p louis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank p louis" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/frank_p_louis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frank_p_louis" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
@@ -62,13 +62,13 @@
 </p>
 
 <!-- GitHub Readme Stats - Dark Mode/Light Mode -->
-<p><picture>
+<p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codemod3&layout=compact&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codemod3&layout=compact&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemod3&layout=compact" alt="Top Languages" />
 </picture></p>
 
-<p><picture>
+<p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=codemod3&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=codemod3&theme=light" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemod3" alt="GitHub Streak Stats" />
