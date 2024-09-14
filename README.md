@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank P Louis</h1>
 <h3 align="center">Undergraduate Computer Science student</h3>
 
-- 📫 How to reach me **frankplouis7@gmail.com**
+<p align="center">📫 How to reach me: **frankplouis7@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
