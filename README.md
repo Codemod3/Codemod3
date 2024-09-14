@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frank P Louis</h1>
 <h3 align="center">Undergraduate Computer Science student</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1413502914.1726185600&semt=ais_hybrid)">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg">
 
 - 📫 How to reach me **frankplouis7@gmail.com**
 
